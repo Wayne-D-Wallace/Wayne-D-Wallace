@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Wayne Wallace and I'm currently learning .Net C# at Tech Elevator in Cleveland Ohio
 
 <!--
 **Wayne-D-Wallace/Wayne-D-Wallace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
