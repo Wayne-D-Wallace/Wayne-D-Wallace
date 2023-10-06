@@ -16,8 +16,11 @@ namespace Penguin_Encounter
             penguins.Add("Macaroni");
             penguins.Add("Galopagos");
         }
-       
-        
+
+        public void ChoosePenguin()
+        {
+
+        }
 
     }
 }

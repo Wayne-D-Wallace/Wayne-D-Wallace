@@ -13,10 +13,7 @@ namespace Penguin_Encounter
         public int Length { get; set; }
         public int Weight { get; set; }
         public int UserResponse 
-        {
-            get; set;
-         
-        }
+        { get; set;}
         public List<string> MarxistOrca = new List<string>();
 
         public Orca (int hitPoints, int length, int weight, int userResponse, List<string> comradeOrca)
